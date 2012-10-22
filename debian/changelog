@@ -1,0 +1,5 @@
+jq (1.1-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Pierre Carrier <pierre@spotify.com>  Sat, 20 Oct 2012 15:56:47 -0400
