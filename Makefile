@@ -1,5 +1,5 @@
 CC=gcc -Wextra -Wall -Wno-missing-field-initializers -Wno-unused-parameter -std=gnu99 -ggdb -Wno-unused-function
-prefix=/usr/local
+prefix := /usr/local
 
 .PHONY: all clean releasedep tarball install uninstall test releasetag
 all: jq
